@@ -42,4 +42,4 @@
 38）将第1134行代码中的“Py_ssize_t len = 0;”修改为“ int64_t len = 0;”。
 39）将第1193行代码中的“uint32_t (*hGetVersion)(void);”修改为“int64_t (*hGetVersion)(void);”。
 40）将第1214行代码中的“uint32_t version = (*hGetVersion)();”修改为“int64_t version = (*hGetVersion)();”。
-![image](https://github.com/user-attachments/assets/7a30d216-1200-4343-a6bd-dceccae81c55)
+
